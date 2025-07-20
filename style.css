@@ -65,11 +65,15 @@ body{
     
     width: 100%;
     list-style: none;
-    margin-top: 30px;
-    
-   
-   
+    margin-top: 30px; 
 }
+
+.list-tasks p{
+    
+  margin-left: 5px;
+}
+
+
 
 .task{
     background-color: #f2f2f2;
